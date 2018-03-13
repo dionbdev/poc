@@ -1,0 +1,19 @@
+#margin {
+	margin-left: 15px;
+}
+#caption{
+
+	font-size: 35px;
+}
+
+
+.carousel img {
+  width: 100%;
+}
+
+.carousel {
+	width: 540px;
+	height: auto;
+}
+
+
